@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Insane smashed with jalapenos",
+    "kCal": 580,
+    "lactose": false,
+    "gluten": true,
+    "img": "/img/jalapeno.jpg"
+  },
+
+    {
+    "name": "Regular burger without sauce",
+    "kCal": 100,
+    "lactose": false,
+    "gluten": true,
+    "img": "/img/regular.jpg"
+  },
+
+    {
+    "name": "Vegan insane smashed burger",
+    "kCal": 1,
+    "lactose": true,
+    "gluten": false,
+    "img": "/img/vegan.jpg"
+  }
+]
